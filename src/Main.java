@@ -8,7 +8,7 @@ public class Main {
 
         System.out.println("Fibonacci series (" + n + " term):");
         for (int i = 1; i <= n; i++) {
-            System.out.print(a + " ");
+            System.out.print(a + ", ");
 
             int next = a + b;
             a = b;
