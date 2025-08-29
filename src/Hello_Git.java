@@ -16,5 +16,8 @@ public class Hello_Git {
 
         int length = countLetters(input);
         System.out.println("Das Wort \"" + input + "\" hat " + length + " Buchstaben.");
+        System.out.print("Code wurde geändert");
+
+        
     }
 }
